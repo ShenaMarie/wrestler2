@@ -1,3 +1,3 @@
 # wrestler2
 
-This is wrestler1
+This is wrestler2
